@@ -53,7 +53,7 @@ EquiPlus AI is delivered as a web platform, with a mobile app to follow, built o
 
 - **Ethics inside the reasoning, not as an afterthought.** An asset that fails a user's filter is not just hidden. The analyst explains why and proposes compliant peers in the same sector.
 - **Glocal by design.** One dashboard shows local (PSX, PKT clock) and global (NYSE/NASDAQ, EST) holdings, unified in the user's base currency.
-- **Local payment options.** PKR plans accept Safepay, PayPro, JazzCash and EasyPaisa. USD plans use Stripe.
+- **Local payment options.** USD/PKR plans accept Safepay, PayPro, JazzCash and EasyPaisa.
 - **Transparent predictions.** Growth analysis uses a published, explainable method, with clear disclaimers. It is a planning aid, not investment advice.
 
 ### Current Prototype Status
