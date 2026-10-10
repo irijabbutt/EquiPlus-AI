@@ -1,0 +1,81 @@
+EquiPlus AI Proprietary Software License
+
+Copyright (c) 2026 [COMPANY LEGAL NAME]. All rights reserved.
+
+1. Definitions
+
+"Software" means the EquiPlus AI source code, object code, documentation, workflow definitions, database schemas, pitch deck files, website content and all related materials in this repository.
+
+"Brand Assets" means the EquiPlus AI name, logo (including the emblem and wordmark), colour system, typefaces as applied, taglines, the Brand Sheet and any other branding material.
+
+"You" means any person or entity that receives or accesses the Software.
+
+2. Ownership
+
+The Software and the Brand Assets are the exclusive property of [COMPANY LEGAL NAME] and are protected by copyright, trademark and other laws. All rights not expressly granted in this License are reserved.
+
+3. Permitted Access
+
+You may view the source code in this repository for evaluation and discussion purposes only, and only while you have authorised access from [COMPANY LEGAL NAME].
+
+4. Restrictions
+
+Except as expressly permitted in Section 3 or in a separate written agreement, you must not:
+
+(a) copy, reproduce, modify, adapt, translate or create derivative works of the Software;
+(b) distribute, publish, sublicense, sell, rent, lease, lend or otherwise make the Software available to any third party;
+(c) host, deploy, offer or operate the Software or any part of it as a service for others;
+(d) use the Software, or any output of it, to build a competing product or service;
+(e) remove, alter or obscure any copyright, licence or proprietary notice;
+(f) reverse engineer, decompile or disassemble the Software, except where applicable law expressly prohibits this restriction;
+(g) use the Brand Assets without prior written permission.
+
+5. Third-Party Components
+
+The Software includes or depends on third-party components, each governed by its own licence. Those licences apply to those components. They are listed in THIRD_PARTY_LICENSES, where that file is provided. Nothing in this License restricts your rights under a third-party licence for that component alone. Third-party market data, datasets and APIs are used under separate agreements, and you may not extract, redistribute or resell them through the Software.
+
+6. Confidentiality
+
+Non-public parts of the Software, including algorithms, prompts, scoring methods, unreleased features and data-licence terms, are confidential information of [COMPANY LEGAL NAME]. You must protect them and use them only as permitted in Section 3.
+
+7. Feedback
+
+If you give suggestions or feedback about the Software, [COMPANY LEGAL NAME] may use them without obligation to you.
+
+8. Termination
+
+This License ends automatically if you breach it. On termination you must stop all access to the Software and delete all copies in your possession.
+
+9. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. MARKET DATA, ETHICAL SCREENING RESULTS, FINANCIAL PROJECTIONS AND AI-GENERATED OUTPUT ARE INFORMATIONAL ONLY AND ARE NOT INVESTMENT, LEGAL, TAX OR OTHER PROFESSIONAL ADVICE.
+
+10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, [COMPANY LEGAL NAME] WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA OR INVESTMENTS, ARISING OUT OF OR RELATED TO THE SOFTWARE OR YOUR USE OF IT. [COMPANY LEGAL NAME]'S TOTAL LIABILITY FOR ANY CLAIM RELATED TO THE SOFTWARE WILL NOT EXCEED THE AMOUNT YOU PAID FOR ACCESS TO IT IN THE TWELVE MONTHS BEFORE THE CLAIM, OR USD 100 IF YOU PAID NOTHING.
+
+11. Indemnity
+
+You will defend and indemnify [COMPANY LEGAL NAME] against third-party claims arising from your breach of this License or your misuse of the Software.
+
+12. Export and Sanctions
+
+You must comply with all applicable export control and sanctions laws in using or transferring the Software.
+
+13. Governing Law and Disputes
+
+This License is governed by the laws of Pakistan. The courts of Lahore have exclusive jurisdiction over any dispute arising from it, without prejudice to any right to seek urgent injunctive relief in any court of competent jurisdiction to protect intellectual property.
+
+14. Entire Agreement and Severability
+
+This License, together with any separate written agreement with [COMPANY LEGAL NAME], is the entire agreement about the Software. If any provision is found unenforceable, the remaining provisions stay in effect.
+
+15. Changes
+
+[COMPANY LEGAL NAME] may update this License. Updated versions apply to Software received after the update date.
+
+Contact: legal@[COMPANY DOMAIN]
+
+---
+
+This document is a template and has not been reviewed by a qualified lawyer. Before relying on it, have it checked for enforceability in Pakistan and any other jurisdiction where you operate or sell.
