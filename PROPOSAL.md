@@ -68,7 +68,7 @@ EquiPlus AI is delivered as a web platform, with a mobile app to follow, built o
 | Pitch deck (6 slides) | Built |
 | Login and signup | Demo only; Supabase Auth not connected |
 | Payments | Not connected; plan buttons are placeholders |
-| Flutter mobile app: login, dashboard, screener, growth analysis, portfolio, plans, account | First version written (Android and iOS code). Not yet compiled or run on a device; the build environment could not download the Flutter SDK |
+| Flutter web app: login, dashboard, screener, growth analysis, portfolio, plans, account | First version written (Android and iOS code). Not yet compiled or run on a device; the build environment could not download the Flutter SDK |
 | Live market data | Not connected |
 
 ---
