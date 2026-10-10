@@ -15,50 +15,6 @@ Version 1.2 · October 2026 · Prepared by: Rijab Butt · Contact: rijabbutt23@g
 
 ---
 
-## Event Alignment: AI Championship 2026
-
-EquiPlus AI will be presented at the **AI Championship**, run by the Artificial Intelligence Education Foundation and billed as the biggest AI showdown. Teams register, submit a project, pass screening, and the shortlisted teams take part in the final championship event on **24 October 2026**.
-
-### Event Milestones
-
-| Milestone | Date | Status for EquiPlus AI |
-|---|---|---|
-| Registration opens | 12 September 2026 | Open at the time of writing (per the event page) |
-| Project submission deadline | To be confirmed on the event page | **Urgent: confirm this week** |
-| Screening and shortlisting | To be confirmed | Upcoming |
-| Shortlist announcements | To be confirmed | Upcoming |
-| Final championship event | 24 October 2026 | Target for the live pitch and demo |
-
-The event page lists registration as free and open to all skill levels. Project categories are shown on the registration form. The category list is not shown on the page we reviewed. Once it is visible on the registration form, choose the category that fits EquiPlus AI best.
-
-### Submission Package
-
-| Item | Source in this project | Status |
-|---|---|---|
-| Project description | Sections 1–5 of this proposal | Ready |
-| Pitch deck (6 slides) | `deck/EquiPlus_AI_Pitch_Deck.pdf` | Ready |
-| Live web demo | Website (`index.html`), published on Vercel once deployed | Built; deploy pending |
-| Growth analysis demo | Analysis section of the website and the Flutter app | Built |
-| Mobile and web app demo | Flutter web app (`flutter_app/equiplus_ai`) | Code written; not yet compiled |
-| Team details | Section 7 | To complete |
-| Video walkthrough (2–3 minutes) | To record | Not started |
-
-### Pitch Outline (Golden Circle)
-
-1. **Why:** Money should follow conscience. Investors in Pakistan and the wider region want to invest by their values, but most tools show only profit and loss.
-2. **How:** Ethics built into the reasoning. Data is routed to PSX or US feeds, ethical records are synced daily, and Gemini explains the results in English or Urdu.
-3. **What:** One dashboard with ethical screening, a predictive growth analysis for startups, a portfolio view in PKR or USD, and plans priced for local users.
-4. **Ask:** Support to take the pilot from demo to live beta, with real market data and local payment options.
-
-### Demo Rules for the Final
-
-- Show the product as it is. Use labelled sample data; never present sample prices as live.
-- Demonstrate the ethical screener, the Shariah and BDS filters, an ethical alternative, and a growth analysis with a pitch deck upload.
-- Keep a recorded backup of the demo in case of network failure on the day.
-- Explain the disclaimers out loud: informational, not investment advice.
-
----
-
 ## 1. Project Overview & Problem Statement
 
 ### Overview
