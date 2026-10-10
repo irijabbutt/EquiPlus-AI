@@ -1,7 +1,7 @@
 # EquiPlus AI — Project Proposal
 
 **The AI-Powered Ethical Investment Companion**
-Version 1.1 · October 2026 · Prepared by: Rijab Butt · Contact: rijabbutt23@gmail.com
+Version 1.2 · October 2026 · Prepared by: Rijab Butt · Contact: rijabbutt23@gmail.com
 
 ---
 
@@ -12,6 +12,50 @@ Version 1.1 · October 2026 · Prepared by: Rijab Butt · Contact: rijabbutt23@g
 3. **Glocal market data (PSX and global):** one dashboard combining Pakistan Stock Exchange and US and European market data, with holdings reported in PKR or USD.
 4. **Predictive growth analysis:** a five-year projection of revenue, costs, profit or loss and cash for a startup, under three growth scenarios, with break-even and risk flags.
 5. **AI investment analyst (Gemini, n8n):** an AI assistant that reads SEC and SECP filings and explains findings in English or Urdu, built on an automated n8n workflow.
+
+---
+
+## Event Alignment: AI Championship 2026
+
+EquiPlus AI will be presented at the **AI Championship**, run by the Artificial Intelligence Education Foundation and billed as the biggest AI showdown. Teams register, submit a project, pass screening, and the shortlisted teams take part in the final championship event on **24 October 2026**.
+
+### Event Milestones
+
+| Milestone | Date | Status for EquiPlus AI |
+|---|---|---|
+| Registration opens | 12 September 2026 | Open at the time of writing (per the event page) |
+| Project submission deadline | To be confirmed on the event page | **Urgent: confirm this week** |
+| Screening and shortlisting | To be confirmed | Upcoming |
+| Shortlist announcements | To be confirmed | Upcoming |
+| Final championship event | 24 October 2026 | Target for the live pitch and demo |
+
+The event page lists registration as free and open to all skill levels. Project categories are shown on the registration form. The category list is not shown on the page we reviewed. Once it is visible on the registration form, choose the category that fits EquiPlus AI best.
+
+### Submission Package
+
+| Item | Source in this project | Status |
+|---|---|---|
+| Project description | Sections 1–5 of this proposal | Ready |
+| Pitch deck (6 slides) | `deck/EquiPlus_AI_Pitch_Deck.pdf` | Ready |
+| Live web demo | Website (`index.html`), published on Vercel once deployed | Built; deploy pending |
+| Growth analysis demo | Analysis section of the website and the Flutter app | Built |
+| Mobile and web app demo | Flutter web app (`flutter_app/equiplus_ai`) | Code written; not yet compiled |
+| Team details | Section 7 | To complete |
+| Video walkthrough (2–3 minutes) | To record | Not started |
+
+### Pitch Outline (Golden Circle)
+
+1. **Why:** Money should follow conscience. Investors in Pakistan and the wider region want to invest by their values, but most tools show only profit and loss.
+2. **How:** Ethics built into the reasoning. Data is routed to PSX or US feeds, ethical records are synced daily, and Gemini explains the results in English or Urdu.
+3. **What:** One dashboard with ethical screening, a predictive growth analysis for startups, a portfolio view in PKR or USD, and plans priced for local users.
+4. **Ask:** Support to take the pilot from demo to live beta, with real market data and local payment options.
+
+### Demo Rules for the Final
+
+- Show the product as it is. Use labelled sample data; never present sample prices as live.
+- Demonstrate the ethical screener, the Shariah and BDS filters, an ethical alternative, and a growth analysis with a pitch deck upload.
+- Keep a recorded backup of the demo in case of network failure on the day.
+- Explain the disclaimers out loud: informational, not investment advice.
 
 ---
 
@@ -53,7 +97,7 @@ EquiPlus AI is delivered as a web platform, with a mobile app to follow, built o
 
 - **Ethics inside the reasoning, not as an afterthought.** An asset that fails a user's filter is not just hidden. The analyst explains why and proposes compliant peers in the same sector.
 - **Glocal by design.** One dashboard shows local (PSX, PKT clock) and global (NYSE/NASDAQ, EST) holdings, unified in the user's base currency.
-- **Local payment options.** USD/PKR plans accept Safepay, PayPro, JazzCash and EasyPaisa.
+- **Local payment options.** PKR plans accept Safepay, PayPro, JazzCash and EasyPaisa. USD plans use Stripe.
 - **Transparent predictions.** Growth analysis uses a published, explainable method, with clear disclaimers. It is a planning aid, not investment advice.
 
 ### Current Prototype Status
@@ -85,6 +129,7 @@ EquiPlus AI is delivered as a web platform, with a mobile app to follow, built o
 | O4 | Enable paid subscriptions in PKR and USD | First paying subscribers via both gateway types | Month 5 |
 | O5 | Validate product demand with real users | ≥ 500 registered beta users; ≥ 5% convert to paid | Month 6 |
 | O6 | Ship the Flutter mobile app | App store release (Android first) | Month 9 |
+| O7 | Present EquiPlus AI at the AI Championship final | Pitch and live demo delivered; shortlist outcome recorded | 24 October 2026 |
 
 ### Expected Outcomes
 
@@ -260,6 +305,8 @@ Recommend funding the Phase 1 budget and locking the data-licence quotes before 
 | R13 | **Mobile app delays** | Medium | Medium | Ship web first; reuse shared backend; Android before iOS |
 | R14 | **Currency and rate risk** for USD-priced plans and forex conversion | Low to medium | Low | Update forex rates regularly; display rate and date; price in PKR for local users |
 | R15 | **Flutter app not yet verified.** The first version has not been compiled or tested on devices, so bugs or dependency-version issues may appear | High | Medium | Build and run on Android and iOS emulators first; add unit tests for the calculation logic; pin package versions; device testing before beta |
+| R16 | **Short event runway.** The final is on 24 October 2026, and the submission deadline is not yet confirmed, so the team may have less time than planned | High | High | Confirm the deadline and category this week; submit a complete package first; use the website as the primary demo; keep the Flutter app as a supporting demo |
+| R17 | **Demo credibility.** Judges may see sample data and demo-mode login and assume the product is live | Medium | High | Label all data as sample; state what is live and what is planned; show the roadmap for real feeds and payments |
 
 ---
 
@@ -293,6 +340,8 @@ Recommend funding the Phase 1 budget and locking the data-licence quotes before 
 3. Confirm the Supabase project and begin Phase 1 Week 1.
 4. Recruit or contract the backend and Flutter roles.
 5. Compile and test the Flutter app on Android and iOS, then fix issues found in device testing.
+6. Confirm the championship submission deadline, the project category and the shortlist dates on the event page.
+7. Record the 2–3 minute video walkthrough and prepare the backup demo.
 
 ### Change Log
 
@@ -300,6 +349,7 @@ Recommend funding the Phase 1 budget and locking the data-licence quotes before 
 |---|---|---|
 | 1.0 | October 2026 | First full proposal: overview, solution, objectives, users, features, plan, resources, risks |
 | 1.1 | October 2026 | Added key terms; Flutter app status (login, dashboard, screener, growth analysis, portfolio, plans, account); updated feature F15, timeline, team, risks (new R15) and next steps |
+| 1.2 | October 2026 | Added AI Championship 2026 alignment: event milestones, submission package, pitch outline, demo rules; objective O7; risks R16–R17; next steps 6–7 |
 
 ---
 
